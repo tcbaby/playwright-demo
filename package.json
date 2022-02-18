@@ -11,8 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5",
+    "dotenv": "^16.0.0",
+    "nedb": "^1.8.0",
     "playwright": "^1.8.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
