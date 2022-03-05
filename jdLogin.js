@@ -1,4 +1,4 @@
-const { chromium, webkit, devices } = require("playwright");
+const { chromium, devices } = require("playwright-chromium");
 const phone = devices['iPhone 13 Pro']
 require('dotenv').config();
 
